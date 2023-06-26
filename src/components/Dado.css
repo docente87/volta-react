@@ -1,0 +1,11 @@
+.dado-cuadro {
+    display: flex;
+    width: 2rem;
+    height: 2rem;
+    background-color: rgb(216, 14, 243);
+    color: white;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+    border-radius: 4px;
+}
